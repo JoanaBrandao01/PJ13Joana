@@ -1,0 +1,9 @@
+1-arquivos com o mesmo nome, tornando ilegível e incapacitando de entender o que cada código faz(corrigido)
+2-overengineering ()
+3-excesso de comentários (corrigido)
+4-classes que apenas imprimem coisas na tela e classes que poderiam ser métodos ()
+5-dead code(corrigido)
+
+implementar a história:
+"Como jogador eu gostaria de colocar exércitos nos meus territórios. A quantidade de exércitos é um número inteiro e, 
+caso o territórios já possua dono, a operação será negada."
